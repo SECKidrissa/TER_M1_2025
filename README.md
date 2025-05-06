@@ -8,5 +8,5 @@ Ce projet analyse les parcours de soins post-traitement chez les femmes atteinte
 - `output/` : Résultats visuels ou CSV générés
 
 ## Auteurs
-Hamza EL YESRI – M1 SID – 2025
-Idrissa SECK – M1 SID – 2025
+- Hamza EL YESRI – M1 SID – 2025
+- Idrissa SECK – M1 SID – 2025
